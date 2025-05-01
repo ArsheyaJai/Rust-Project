@@ -1,4 +1,5 @@
-// this program loads student data from a CSV file into a graph structure, categorizes students by performance, and computes statistical and graph-based metrics (like mean attribute values and average path distances) to analyze differences between high and low performers.
+// this program loads student data from a CSV file into a graph structure, categorizes students by performance, and computes statistical and graph-based metrics (like mean attribute values and average path distances) to analyze differences between high and low performers
+// aimed to construct a graph and perform BFS
 
 // import necessary modules and functions
 // import the student module for defining the student struct

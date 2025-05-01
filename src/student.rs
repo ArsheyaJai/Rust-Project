@@ -1,4 +1,4 @@
-// this module defines the Student struct and provides a constructor for creating student instances with attributes relevant to academic performance and personal background.
+// this module defines the Student struct and provides a constructor for creating student instances with attributes relevant to academic performance and personal background
 
 // derive debug, partialeq, and clone traits for the Student struct
 #[derive(Debug, PartialEq, Clone)]

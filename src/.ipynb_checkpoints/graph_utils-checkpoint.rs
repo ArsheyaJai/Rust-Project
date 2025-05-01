@@ -1,4 +1,4 @@
-// this module provides utility functions to analyze a graph of Student nodes, including computing the average shortest-path distance between sampled nodes and calculating the mean of a selected student attribute within a group.
+// this module provides utility functions to analyze a graph of Student nodes, including computing the average shortest-path distance between sampled nodes and calculating the mean of a selected student attribute within a group
 
 // import necessary types for graph manipulation and other utilities
 // import the Graph and NodeIndex types from petgraph for graph manipulation

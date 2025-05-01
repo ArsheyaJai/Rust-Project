@@ -1,4 +1,4 @@
-// this module provides a function to read student data from a CSV file and return it as a list of Student structs along with the CSV headers, handling errors gracefully during parsing.
+// this module provides a function to read student data from a CSV file and return it as a list of Student structs along with the CSV headers, handling errors gracefully during parsing
 
 // import the Student struct, which is used to represent a student
 use crate::student::Student;
